@@ -16,9 +16,6 @@ int main()
         return 0;
     }
     
-    printf("\nChecking odd/even in range %d to %d:\n", start, end);
-    printf("----------------------------------------\n");
-    
     num = start;
     while (num <= end)
     {
@@ -35,3 +32,4 @@ int main()
     
     return 0;
 }
+
